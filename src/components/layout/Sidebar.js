@@ -122,7 +122,7 @@ export default function Sidebar() {
             </svg>
           </div>
           <div>
-            <p className="font-bold text-sm leading-tight">Grand Hotel</p>
+            <p className="font-bold text-sm leading-tight">Kenora Hotel</p>
             <p className="text-brand-400 text-xs">Management System</p>
           </div>
         </div>
